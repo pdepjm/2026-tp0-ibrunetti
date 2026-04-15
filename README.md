@@ -1,11 +1,10 @@
 ## Este es un documento sobre mi vida 
 ### Un poco sobre mi
 
-Me llamo Ian Brunetti
-
+Me llamo Ian Santino Brunetti
 
 Tengo 19 años, estudio Ingenieria en Sistemas de información en la UTN FRBA
-Mi legajo es 233.741-1
+Mi legajo es **233.741-1**
 
 ## Cosas sobre mi
 - Soy hincha de Vélez
